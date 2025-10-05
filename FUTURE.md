@@ -1,7 +1,7 @@
 # Future Roadmap (ideas)
 
-- Add templating for easier element composition
-- Improved CSS generator with utility classes ️✔️
-- Support for bundling into a single .html file without server (client-only) ✔️
-- Better dev tooling: auto-reload, CLI, build step 
-  
+**v.1.0.1**: Add website templates for easier creation
+
+**v.1.0.2**: Add useful element such as colorpicker, alert, markdown format and so on.
+
+**v.1.0.3**: Add pythonic support for `JSONs` and `APIs`
