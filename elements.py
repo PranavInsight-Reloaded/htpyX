@@ -1,4 +1,4 @@
-from htpyX_core import element
+from core import element
 
 # Structural
 Html = element("html")
